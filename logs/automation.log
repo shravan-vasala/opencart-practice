@@ -1,0 +1,228 @@
+22:20:26.851 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+22:20:27.233 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+22:20:27.977 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+22:20:27.985 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+22:20:31.714 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+22:20:31.785 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest
+22:30:52.368 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+22:30:52.985 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+22:30:53.824 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+22:30:53.840 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+22:30:57.585 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+22:30:57.645 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest
+22:32:45.803 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+22:32:45.943 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+22:32:46.847 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+22:32:46.859 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+22:32:50.551 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+22:32:50.610 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest
+22:32:58.896 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+22:32:59.668 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+22:33:01.404 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+22:33:01.412 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+22:33:05.924 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+22:33:06.080 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest
+22:33:41.640 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+22:33:42.080 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+22:33:42.928 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+22:33:42.932 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+22:33:46.625 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+22:33:46.688 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest
+22:33:53.326 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+22:33:53.464 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+22:33:54.432 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+22:33:54.435 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+22:33:58.120 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+22:33:58.170 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest
+22:34:53.967 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+22:34:54.191 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+22:34:55.865 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+22:34:55.872 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+22:34:57.765 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+22:34:57.870 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+22:34:59.467 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+22:34:59.470 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+22:35:01.524 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+22:35:01.597 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest
+22:35:04.021 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+22:35:04.073 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest
+22:40:41.693 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+22:40:42.059 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+22:40:43.922 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+22:40:43.928 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+22:40:46.920 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+22:40:47.112 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+22:40:48.893 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+22:40:48.981 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+22:40:48.986 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+22:40:49.032 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest
+22:40:53.800 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+22:40:53.857 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest
+22:56:39.856 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+22:56:40.039 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+22:56:41.279 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+22:56:41.291 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+22:56:45.091 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+22:56:45.163 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest
+22:57:48.955 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+22:57:49.141 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+22:57:49.936 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+22:57:49.939 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+22:57:51.422 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+23:34:06.491 [main] INFO  testCases.TC_002_LoginTest - *** Started TC_002_LoginTest***
+23:34:08.797 [main] INFO  testCases.TC_002_LoginTest - *** Ended TC_002_LoginTest***
+00:18:20.990 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***Starting TC_003_LoginDataDrivenTest***
+00:18:24.501 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Finished TC_003_LoginDataDrivenTest***
+00:18:24.529 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***Starting TC_003_LoginDataDrivenTest***
+00:18:36.016 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Finished TC_003_LoginDataDrivenTest***
+00:18:36.024 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***Starting TC_003_LoginDataDrivenTest***
+00:18:48.309 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Finished TC_003_LoginDataDrivenTest***
+00:18:48.314 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***Starting TC_003_LoginDataDrivenTest***
+00:18:59.763 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Finished TC_003_LoginDataDrivenTest***
+00:18:59.770 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***Starting TC_003_LoginDataDrivenTest***
+00:19:02.135 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Finished TC_003_LoginDataDrivenTest***
+13:28:33.646 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***Starting TC_003_LoginDataDrivenTest***
+13:28:40.499 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Finished TC_003_LoginDataDrivenTest***
+13:28:40.550 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***Starting TC_003_LoginDataDrivenTest***
+13:28:52.788 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Finished TC_003_LoginDataDrivenTest***
+13:28:52.793 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***Starting TC_003_LoginDataDrivenTest***
+13:29:05.380 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Finished TC_003_LoginDataDrivenTest***
+13:29:05.385 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***Starting TC_003_LoginDataDrivenTest***
+13:29:17.526 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Finished TC_003_LoginDataDrivenTest***
+13:29:17.536 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***Starting TC_003_LoginDataDrivenTest***
+13:29:20.165 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Finished TC_003_LoginDataDrivenTest***
+15:45:59.657 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+15:45:59.657 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+15:45:59.845 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+15:45:59.987 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+15:46:58.533 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+15:46:58.533 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+15:46:58.706 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+15:46:58.786 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+15:49:06.360 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+15:49:06.360 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+15:49:06.582 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+15:49:06.669 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+15:49:45.570 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***Starting TC_003_LoginDataDrivenTest***
+15:49:49.698 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Finished TC_003_LoginDataDrivenTest***
+15:49:49.722 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***Starting TC_003_LoginDataDrivenTest***
+15:50:01.186 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Finished TC_003_LoginDataDrivenTest***
+15:50:01.193 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***Starting TC_003_LoginDataDrivenTest***
+15:50:13.020 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Finished TC_003_LoginDataDrivenTest***
+15:50:13.025 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***Starting TC_003_LoginDataDrivenTest***
+15:50:24.363 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Finished TC_003_LoginDataDrivenTest***
+15:50:24.367 [main] INFO  testCases.TC_003_LoginDataDrivenTest - ***Starting TC_003_LoginDataDrivenTest***
+15:50:26.635 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Finished TC_003_LoginDataDrivenTest***
+15:53:06.790 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+15:53:07.365 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+15:53:08.657 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+15:53:08.664 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+15:53:12.598 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+15:53:12.662 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest
+15:54:00.154 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+15:54:00.884 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+15:54:01.600 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+15:54:01.606 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+15:54:05.379 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+15:54:05.443 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest
+15:54:10.498 [main] INFO  testCases.TC_002_LoginTest - *** Started TC_002_LoginTest***
+15:54:12.486 [main] INFO  testCases.TC_002_LoginTest - *** Ended TC_002_LoginTest***
+15:54:55.625 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+15:54:55.952 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+15:54:56.784 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+15:54:56.793 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+15:55:00.521 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+15:55:00.582 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest
+15:55:05.796 [main] INFO  testCases.TC_002_LoginTest - *** Started TC_002_LoginTest***
+15:55:09.085 [main] INFO  testCases.TC_002_LoginTest - *** Ended TC_002_LoginTest***
+15:56:01.104 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+15:56:01.432 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+15:56:02.604 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+15:56:02.628 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+15:56:06.440 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+15:56:06.508 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest
+15:56:11.688 [main] INFO  testCases.TC_002_LoginTest - *** Started TC_002_LoginTest***
+15:56:14.671 [main] INFO  testCases.TC_002_LoginTest - *** Ended TC_002_LoginTest***
+15:57:30.584 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+15:57:31.434 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+15:57:32.350 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+15:57:32.354 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+15:57:36.069 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+15:57:36.125 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest
+15:57:40.892 [main] INFO  testCases.TC_002_LoginTest - *** Started TC_002_LoginTest***
+15:57:43.623 [main] INFO  testCases.TC_002_LoginTest - *** Ended TC_002_LoginTest***
+16:03:09.178 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+16:03:09.825 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+16:03:10.610 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+16:03:10.619 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+16:03:14.297 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+16:03:14.362 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest
+16:03:18.983 [main] INFO  testCases.TC_002_LoginTest - *** Started TC_002_LoginTest***
+16:03:21.532 [main] INFO  testCases.TC_002_LoginTest - *** Ended TC_002_LoginTest***
+16:03:43.966 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+16:03:44.624 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+16:03:45.472 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+16:03:45.477 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+16:03:49.064 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+16:03:49.123 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest
+16:05:04.222 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+16:05:04.612 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+16:05:05.432 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+16:05:05.442 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+16:05:09.217 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+16:05:09.282 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest
+16:06:17.139 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+16:06:17.934 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+16:06:18.639 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+16:06:18.645 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+16:06:22.320 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+16:06:27.195 [main] INFO  testCases.TC_002_LoginTest - *** Started TC_002_LoginTest***
+16:06:29.881 [main] INFO  testCases.TC_002_LoginTest - *** Ended TC_002_LoginTest***
+16:08:25.742 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+16:08:25.948 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+16:08:28.112 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+16:08:28.121 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+16:08:31.949 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+16:08:36.629 [main] INFO  testCases.TC_002_LoginTest - *** Started TC_002_LoginTest***
+16:08:39.410 [main] INFO  testCases.TC_002_LoginTest - *** Ended TC_002_LoginTest***
+16:09:44.746 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+16:09:45.318 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+16:09:46.091 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+16:09:46.094 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+16:09:49.793 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+16:09:49.864 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest
+16:10:38.950 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+16:10:39.446 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+16:10:40.225 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+16:10:40.229 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+16:10:43.785 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+16:10:49.003 [main] INFO  testCases.TC_002_LoginTest - *** Started TC_002_LoginTest***
+16:11:27.752 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+16:11:27.908 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+16:11:28.691 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+16:11:28.697 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+16:11:32.289 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+16:11:37.903 [main] INFO  testCases.TC_002_LoginTest - *** Started TC_002_LoginTest***
+16:26:08.881 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+16:26:09.025 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+16:26:10.062 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+16:26:10.064 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+16:26:13.838 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+16:28:13.641 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+16:28:13.808 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+16:28:15.152 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+16:28:15.155 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+16:28:19.002 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+16:28:19.073 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest
+16:29:20.412 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+16:29:20.720 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+16:29:21.398 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+16:29:21.435 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+16:29:25.064 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+16:29:25.124 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest
+16:32:11.218 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Started TC_001_AccountRegistrationTest
+16:32:11.699 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account
+16:32:12.596 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+16:32:12.624 [main] INFO  testCases.TC_001_AccountRegistrationTest - Started registering
+16:32:16.404 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked continue
+16:32:16.469 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest
